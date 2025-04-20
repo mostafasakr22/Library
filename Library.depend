@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1698644351 source:c:\users\nile\documents\project_1\src\book.cpp
+	"Book.h"
+
+1698644300 c:\users\nile\documents\project_1\include\book.h
+	<iostream>
+
+1698644337 source:c:\users\nile\documents\project_1\src\dyncontainer.cpp
+	"DynContainer.h"
+
+1698644834 c:\users\nile\documents\project_1\include\dyncontainer.h
+	<iostream>
+	<Node.h>
+
+1698644300 c:\users\nile\documents\project_1\include\node.h
+
+1698644341 source:c:\users\nile\documents\project_1\src\library.cpp
+	"Library.h"
+
+1698644300 c:\users\nile\documents\project_1\include\library.h
+	<iostream>
+	<Book.h>
+	<DynContainer.h>
+
+1698644345 source:c:\users\nile\documents\project_1\src\node.cpp
+	"Node.h"
+
+1698644636 source:c:\users\nile\documents\project_1\main.cpp
+	<iostream>
+	"DynContainer.h"
+	"Library.h"
+	"Book.h"
+
+1698644337 source:e:\mostafa sakr\20912022100353 project_1\src\dyncontainer.cpp
+	"DynContainer.h"
+
+1699116275 e:\mostafa sakr\20912022100353 project_1\include\dyncontainer.h
+	<iostream>
+	<Node.h>
+
+1699116275 e:\mostafa sakr\20912022100353 project_1\include\node.h
+
+1698644345 source:e:\mostafa sakr\20912022100353 project_1\src\node.cpp
+	"Node.h"
+
+1699277627 source:e:\mostafa sakr\20912022100353 project_1\main.cpp
+	<iostream>
+	"DynContainer.h"
+	"Book.h"
+	"Library.h"
+
+1699276496 source:e:\mostafa sakr\20912022100353 project_1\src\book.cpp
+
+1699277402 e:\mostafa sakr\20912022100353 project_1\include\book.h
+	<iostream>
+
+1699277627 e:\mostafa sakr\20912022100353 project_1\include\library.h
+	<iostream>
+	<Book.h>
+	<DynContainer.h>
+
+1699276664 source:e:\mostafa sakr\20912022100353 project_1\src\library.cpp
+	"Library.h"
+
+1699278315 source:e:\mostafa sakr\18_mostafa_hamdy\main.cpp
+	<iostream>
+	"DynContainer.h"
+	"Book.h"
+	"Library.h"
+
+1699116275 e:\mostafa sakr\18_mostafa_hamdy\include\dyncontainer.h
+	<iostream>
+	<Node.h>
+
+1699116275 e:\mostafa sakr\18_mostafa_hamdy\include\node.h
+
+1699277402 e:\mostafa sakr\18_mostafa_hamdy\include\book.h
+	<iostream>
+
+1699277627 e:\mostafa sakr\18_mostafa_hamdy\include\library.h
+	<iostream>
+	<Book.h>
+	<DynContainer.h>
+
+1698644337 source:e:\mostafa sakr\18_mostafa_hamdy\src\dyncontainer.cpp
+	"DynContainer.h"
+
+1699276664 source:e:\mostafa sakr\18_mostafa_hamdy\src\library.cpp
+	"Library.h"
+
+1698644345 source:e:\mostafa sakr\18_mostafa_hamdy\src\node.cpp
+	"Node.h"
+
+1699278315 source:e:\mostafa sakr\career\project_1\main.cpp
+	<iostream>
+	"DynContainer.h"
+	"Book.h"
+	"Library.h"
+
+1699116275 e:\mostafa sakr\career\project_1\include\dyncontainer.h
+	<iostream>
+	<Node.h>
+
+1699116275 e:\mostafa sakr\career\project_1\include\node.h
+
+1699277402 e:\mostafa sakr\career\project_1\include\book.h
+	<iostream>
+
+1699277627 e:\mostafa sakr\career\project_1\include\library.h
+	<iostream>
+	<Book.h>
+	<DynContainer.h>
+
+1698644337 source:e:\mostafa sakr\career\project_1\src\dyncontainer.cpp
+	"DynContainer.h"
+
+1699276664 source:e:\mostafa sakr\career\project_1\src\library.cpp
+	"Library.h"
+
+1698644345 source:e:\mostafa sakr\career\project_1\src\node.cpp
+	"Node.h"
+
